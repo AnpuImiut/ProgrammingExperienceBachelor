@@ -1,2 +1,2 @@
 # ProgrammingExperienceBachelor
-This repository contains most of my programming experience collected in during my Bachelor of Science in Computer Science.
+This repository contains most of my programming experience collected during my study of Computer Science (Bachelor + Master).
